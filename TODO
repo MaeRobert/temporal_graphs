@@ -1,0 +1,12 @@
+TODO :
+[] Gestion des free
+[] Gestion du CSV pour input 
+[] Résoudre pb avec output 
+[] Mettre solution output sous bonne forme (CSV)
+[] Corriger le latex
+[] Rapport de stage
+[] Exposé pour soutenance stage 
+[] Faire en sorte que coordonnées des sommets soient respectées dans affichage 
+[] Donner vitesse aux sommets (+ implémenter données physiques avec trous noirs frottements rebonds etc ?)
+[] Faire joli visionnage de la solution, en fct du temps, comme expliqué l'autre fois (idée : pour un temps t, regarder à t-1 et t+1)
+[] Voir si possible de mettre transparence plutôt que width dans visionnage solution 
